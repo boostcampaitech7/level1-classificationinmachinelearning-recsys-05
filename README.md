@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=max&height=250&section=header&text=비트코인_상승/하락_시계열_분류_예측&desc=RecSys_05_오곡밥&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=max&height=250&section=header&text=비트코인_상승/하락_시계열분류예측&desc=RecSys05_오곡밥&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
 
 ## 💡 프로젝트 개요
 
