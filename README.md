@@ -28,7 +28,7 @@
 ## ⚙️ 개발 환경
 #### OS: Linux (5.4.0-99-generic, x86_64)
 #### GPU: Tesla V100-SXM2-32GB (CUDA Version: 12.2)
-
+#### CPU : Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz, 8 Cores
 
 <br>
 
